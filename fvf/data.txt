@@ -1,0 +1,5 @@
+Stepanchuk I O Ceh1 85 34 21 5 10 15
+Ivanenko L K Ceh2 5 3 12 5 10 15
+Gerasymenko R T Ceh1 123 432 543 5 10 15
+Petrov K K Ceh2 41 58 93 5 10 15
+Kyrylchuk F T Ceh2 654 65 102 5 10 15
